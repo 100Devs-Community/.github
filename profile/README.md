@@ -1,12 +1,19 @@
-<h1 align='center' title='Click to visit 100Devs website'><a href='https://leonnoel.com/100devs/'> <img src='https://pbs.twimg.com/card_img/1589438369494315008/GEokF0bG?format=png&name=360x360'> </a align='center'></h1>
+<h5 align='center' title='Click to visit 100Devs website'><a href='https://leonnoel.com/100devs/'> <img src='https://pbs.twimg.com/card_img/1589438369494315008/GEokF0bG?format=png&name=360x360'> </a align='center'></h5>
 
-<h3 align='center'> Welcome to the Marketplace for 100Devs Member Sponsored/Created Collaboarative Repos</h3>
+---
+
+<h3 align='center'> Welcome to the Marketplace for 100Devs Community Created & Supported Projects</h3>
+
+---
 
 </br>
 
-- [ ] Connect with other members
-- [ ] Search of opensource cohort member created project and help contribute
-- [ ] Submit a repo to be added to the marketplace for promotion and expanding collaboration
+## What you can do here:
+
+- [ ] `Connect` with other members
+- [ ] `Search for applications` created by other 100Devs members
+- [ ] `Contribute to open-source` projects [here](https://github.com/orgs/100Devs-Community/repositories) in the Marketplace through **Pull Requests**
+- [ ] `Submit a repo to be added` to the marketplace for promotion and to expand community collaboration
 
 </br>
 
