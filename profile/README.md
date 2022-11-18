@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align='center'>Welcome to the Marketplace of Projects Created & Supported by the 100Devs Community</h3>
+<h3 align='center'>Welcome to the Marketplace of Created & Supported Projects by the 100Devs Community</h3>
 
 ---
 
