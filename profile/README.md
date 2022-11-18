@@ -39,8 +39,8 @@
 
 ## How can I help?
 - [ ] `Volunteer` to join the moderator team
-- [ ] `Contribute to open-source projects` by offering to work of published repo tasks in the marketplace
-- [ ] `Join the community discussion board` [here](https://github.com/orgs/100Devs-Community/discussions) and voice your opinion how ways to improve the community organization
+- [ ] `Contribute to open-source projects` by offering to work on published repo tasks in the marketplace
+- [ ] `Join the community discussion board` [here](https://github.com/orgs/100Devs-Community/discussions) and voice your opinion on ways to improve the community organization
 
 </br>
 </br>
