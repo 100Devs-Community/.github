@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align='center'> Welcome to the Marketplace of Projects Created & Supported by 100Devs Community</h3>
+<h3 align='center'> Welcome to the Marketplace of Projects Created & Supported by the 100Devs Community</h3>
 
 ---
 
@@ -69,4 +69,5 @@
 ---
 #### In collaboration with: 
 
-<a href="http://www.resilientcoders.org/"><img src="https://roxburyinnovationcenter.org/wp-content/uploads/2020/03/Resilient-coders-1024x572.png" width="100px" height="60px" target="_blank" title = "Resilient Coders"></a> <a href="https://leonnoel.com/100devs/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGIlYsjeJ1xcg/company-logo_200_200/0/1620334581399?e=2147483647&v=beta&t=ILX3XXTqOao8Y5yAuBMjn9SUvkdFlaK4CiHQfhHYK_0" width="60px" height="60px" target="_blank" title = "100Devs - Learning with Leon"></a>
+<a href="http://www.resilientcoders.org/"><img src="https://roxburyinnovationcenter.org/wp-content/uploads/2020/03/Resilient-coders-1024x572.png" width="100px" height="60px" target="_blank" title = "Resilient Coders"></a> 
+<a href="https://leonnoel.com/100devs/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGIlYsjeJ1xcg/company-logo_200_200/0/1620334581399?e=2147483647&v=beta&t=ILX3XXTqOao8Y5yAuBMjn9SUvkdFlaK4CiHQfhHYK_0" width="60px" height="60px" target="_blank" title = "100Devs - Learning with Leon"></a>
