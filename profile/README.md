@@ -1,12 +1,10 @@
-<h5 align='center' title='Click to visit 100Devs website'><a href='https://leonnoel.com/100devs/'> <img src='https://pbs.twimg.com/card_img/1589438369494315008/GEokF0bG?format=png&name=360x360'> </a align='center'></h5>
+<h5 align='center' title='WE GO GET!!'><img src='https://pbs.twimg.com/card_img/1589438369494315008/GEokF0bG?format=png&name=360x360'></h5>
 
 ---
 
-<h3 align='center'> Welcome to the Marketplace for 100Devs Community Created & Supported Projects</h3>
+<h3 align='center'> Welcome to the Marketplace of Projects Created & Supported by 100Devs Community</h3>
 
 ---
-
-</br>
 
 ## What you can do here:
 
@@ -14,6 +12,8 @@
 - [ ] `Search for applications` created by other 100Devs members
 - [ ] `Contribute to open-source` projects [here](https://github.com/orgs/100Devs-Community/repositories) in the Marketplace through **Pull Requests**
 - [ ] `Submit a repo to be added` to the marketplace for promotion and to expand community collaboration
+- [ ] `Join the community discussion board` by answering or asking questions [here](https://github.com/orgs/100Devs-Community/discussions)
+- [ ] `Create a team discussion board` for your specific hosted repository [here](https://docs.github.com/en/organizations/collaborating-with-your-team/creating-a-team-discussion)
 
 </br>
 
@@ -36,6 +36,30 @@
 [100Devs Official Website](https://leonnoel.com/100devs/)
 
 </br>
-<hr/>
 
-#### In collaboration with [Resilient Coders](http://www.resilientcoders.org/)
+## How can I help?
+- [ ] `Volunteer` to join the moderator team
+- [ ] `Contribute to open-source projects` by offering to work of published repo tasks in the marketplace
+- [ ] `Join the community discussion board` [here](https://github.com/orgs/100Devs-Community/discussions) and voice your opinion how ways to improve the community organization
+
+</br>
+</br>
+
+# ***COMMUNITY GUIDELINES:***
+- [ ] `BE KIND, BE RESPECTFUL`
+
+- Harrasment, abuse, bullying, or anything of this kind to fellow members will result in the immediate and permanent removal of membership to the 100Devs Community Marketplace
+
+- [ ] `MALICIOUS ACTIVITY WILL NOT BE TOLERATED!`
+
+- We all make mistakes when coding, and the unintentional bug is inevitable. However, ***blatent and intentional code corruption*** or ***any other obvious malicious activity*** will result in an immediate and permanent removal of membership
+
+
+##### `To report activity that violates the community guidelines`:
+
+- Please contact an organization moderator [here](https://github.com/organizations/100Devs-Community/settings/moderators), or send an email to 100DevsCommunity@gmail.com
+
+</br>
+
+---
+#### In collaboration with: [Resilient Coders](http://www.resilientcoders.org/)
