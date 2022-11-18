@@ -31,6 +31,10 @@
 
 [Resume Template](https://drive.google.com/file/d/1XgHvZ5wS6DWyqX2ABMiMq4CmGkYtDOUf/view)
 
+[100Devs Official Discord](https://discord.com/invite/zNxhjnmDPy)
+
+[100Devs Official Website](https://leonnoel.com/100devs/)
+
 </br>
 <hr/>
 
