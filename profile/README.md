@@ -62,7 +62,7 @@
 
 #### ***To report activity that violates the community guidelines:***
 
-> Please contact an organization moderator [here](https://github.com/organizations/100Devs-Community/settings/moderators 'Click to open moderator hub'), or send an email to [100DevsCommunity@gmail.com](100DevsCommunity@gmail.com  'Click to send an email')
+> Please contact an organization moderator [here](https://github.com/organizations/100Devs-Community/settings/moderators 'Click to open moderator hub'), or send an email to 100DevsCommunity@gmail.com 
 
 </br>
 
