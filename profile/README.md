@@ -2,53 +2,52 @@
 
 ---
 
-<h3 align='center'> Welcome to the Marketplace of Projects Created & Supported by the 100Devs Community</h3>
+<h3 align='center'>Welcome to the Marketplace of Projects Created & Supported by the 100Devs Community</h3>
 
 ---
 
 </br>
 
-## What you can do here:
+## WHAT CAN I DO HERE?
 
-- [ ] `Connect with other members`
-- [ ] `Search for projects` created by other 100Devs members
-- [ ] `Contribute to open-source` projects [here](https://github.com/orgs/100Devs-Community/repositories 'Click to visit') in the Marketplace through **Pull Requests**
-- [ ] `Submit a repo to be added` to the marketplace for promotion and to expand community collaboration
-- [ ] `Join the community discussion board` by answering or asking questions [here](https://github.com/orgs/100Devs-Community/discussions 'Click to visit')
-- [ ] `Create a team` for a specific repository [here](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team 'Click to learn how') to easily collaborate with contributing project members
-- [ ] `Create a team discussion board` for your specific hosted repository [here](https://docs.github.com/en/organizations/collaborating-with-your-team/creating-a-team-discussion 'Click to visit')
+`✔️` `Connect with other members` by searching [here](https://github.com/orgs/100Devs-Community/people 'Click to view list of members') in the community directory
 
-</br>
+`✔️` `Search for projects` created by other 100Devs members [here](https://github.com/orgs/100Devs-Community/repositories 'Click to visit sponsored repos')
 
-## 100Devs Cohort Resources:
+`✔️` `Contribute to open-source` projects [here](https://github.com/orgs/100Devs-Community/repositories 'Click to visit') in the Marketplace through **Pull Requests**
 
-- #### [Banki Questions](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/preview?pru=AAABgNRL92A*84_egxNgPxmF_8kI-WtSmg 'Click to visit')
+`✔️` `Submit a repo to be added` to the marketplace for promotion and to expand community collaboration [here](https://github.com/orgs/100Devs-Community/repositories 'Click to open community sponsored repos list')
 
-- #### [Hit List Template](https://docs.google.com/spreadsheets/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/htmlview?usp=sharing&pru=AAABgNSd6dU*4T5t6MsS1myIhBfFnjKEaQ# 'Click to visit')
+`✔️` `Join the community discussion board` by answering or asking questions [here](https://github.com/orgs/100Devs-Community/discussions 'Click to visit discussion board')
 
-- #### [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg/edit 'Click to visit')
+`✔️` `Create a team` for a specific repository [here](https://github.com/orgs/100Devs-Community/teams 'Click to create a team') to easily collaborate with contributing project members
 
-- #### [Cold Call Reach-Out Scripts](https://docs.google.com/document/d/1LaM_Dv-i07gJvHfqDFJdoqdkcVoaL1NYQEFTOSm1xCA/edit 'Click to visit')
-
-- #### [Email Template](https://resilientcoders.notion.site/100devs-Email-Templates-ea2a8c9bef5646549b3b1702281b0a45 'Click to visit')
-
-- #### [Resume Template](https://drive.google.com/file/d/1XgHvZ5wS6DWyqX2ABMiMq4CmGkYtDOUf/view 'Click to visit')
-
-- #### [100Devs Official Discord](https://discord.com/invite/zNxhjnmDPy 'Click to visit')
-
-- #### [100Devs Official Website](https://leonnoel.com/100devs/ 'Click to visit')
+`✔️` `Create a team discussion board` for your specific hosted repository [here](https://docs.github.com/en/organizations/collaborating-with-your-team/creating-a-team-discussion 'Click to learn how')
 
 </br>
 
-## How can I help?
+## HOW CAN I HELP?
 - [ ] `Volunteer` to join the moderator team
 - [ ] `Contribute to open-source projects` by offering to work on published repo tasks in the marketplace
 - [ ] `Join the community discussion board` [here](https://github.com/orgs/100Devs-Community/discussions 'Click to join discussion') and voice your opinion on ways to improve the community and marketplace
 
 </br>
+
+## 100DEVS RESOURCES:
+
+- #### [Banki Questions](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/preview?pru=AAABgNRL92A*84_egxNgPxmF_8kI-WtSmg 'Click to visit')
+- #### [Hit List Template](https://docs.google.com/spreadsheets/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/htmlview?usp=sharing&pru=AAABgNSd6dU*4T5t6MsS1myIhBfFnjKEaQ# 'Click to visit')
+- #### [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg/edit 'Click to visit')
+- #### [Cold Call Reach-Out Scripts](https://docs.google.com/document/d/1LaM_Dv-i07gJvHfqDFJdoqdkcVoaL1NYQEFTOSm1xCA/edit 'Click to visit')
+- #### [Email Template](https://resilientcoders.notion.site/100devs-Email-Templates-ea2a8c9bef5646549b3b1702281b0a45 'Click to visit')
+- #### [Resume Template](https://drive.google.com/file/d/1XgHvZ5wS6DWyqX2ABMiMq4CmGkYtDOUf/view 'Click to visit')
+- #### [100Devs Official Discord](https://discord.com/invite/zNxhjnmDPy 'Click to visit')
+- #### [100Devs Official Website](https://leonnoel.com/100devs/ 'Click to visit')
+
+</br>
 </br>
 
-<h1 align='center'>COMMUNITY GUIDELINES</h1>
+<h1 align='center'>⛔ COMMUNITY GUIDELINES ⛔</h1>
 
 - [ ] `BE KIND, BE RESPECTFUL`
 
@@ -60,9 +59,9 @@
 
 </br>
 
-#### ***To report activity that violates the community guidelines:***
+#### ***To report activity that violates the community guidelines, or to contact the team with any questions:***
 
-> Please contact an organization moderator [here](https://github.com/organizations/100Devs-Community/settings/moderators 'Click to open moderator hub'), or send an email to 100DevsCommunity@gmail.com 
+> Please contact an organization moderator [here](https://github.com/orgs/100Devs-Community/people 'Search for members labeled as "Moderators"'), or send an email to 100DevsCommunity@gmail.com 
 
 </br>
 
