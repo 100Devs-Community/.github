@@ -9,7 +9,7 @@
 </br>
 
 <!----- Schedule markdown below ----->
-## WEEKLY SCHEDULE*:
+## WEEKLY SCHEDULE:
 <span> * All times listed in EST and are subject to change with little to no notice. If you see an error or would like something added please let us know! </span>
 
 | Sunday 11/20/22                 	| Monday 11/21/22                                                                                                                                                              	| Tuesday 11/22/22                                                                                                                                                     	| Wednesday 11/23/22                                                                                                                                                                                                                                                        	| Thursday 11/24/22         	| Friday 11/25/22                                                                                                                                           	| Saturday 11/26/22 	|
