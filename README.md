@@ -5,6 +5,6 @@
 ### To access main page readme file:
 
 1. open "profile" folder
-2. open "Readme.md"
+2. open "README.md"
 
-#### Note: The ***"Readme.md"*** file within the ***"profile"*** folder is the markdown file displayed on 100Devs Marketplace main page [here](https://github.com/100Devs-Community).
+#### Note: The ***"README.md"*** file within the ***"profile"*** folder is the markdown file displayed on 100Devs Marketplace main page [here](https://github.com/100Devs-Community).
