@@ -56,6 +56,7 @@
 - #### [100Devs Official Discord](https://discord.com/invite/zNxhjnmDPy 'Click to visit')
 - #### [100Devs Official Website](https://leonnoel.com/100devs/ 'Click to visit')
 - #### [Github README.md Profile Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- #### [100Devs Class Videos](https://www.youtube.com/@learnwithleon)
 
 </br>
 </br>
