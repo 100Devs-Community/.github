@@ -1,4 +1,4 @@
-# 🚧 Site is currently under construction. Sorry for the inconvience 🚧
+# 🚧 Site is currently under construction 🚧
 Site currently being overhauled to better support the community
 
 <!-- DELETE TO UNCOMMENT 
