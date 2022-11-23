@@ -1,7 +1,7 @@
 # 🚧 Site is currently under construction 🚧
 Site currently being overhauled to better support the community. 
 
-### Sorry for the inconvenience, but we will be back up an coding together ASAP!!!!!
+### Sorry for the inconvenience, but we will be back up and coding together ASAP!!!!!
 
 <!-- DELETE TO UNCOMMENT 
 <h5 align='center' title='WE GO GET!!'><a href="https://leonnoel.com/100devs/"><img src='https://pbs.twimg.com/card_img/1589438369494315008/GEokF0bG?format=png&name=360x360'></a></h5>
