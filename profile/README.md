@@ -1,3 +1,6 @@
+# Site is currently under construction following 100 Maintainers meeting next week
+
+<!-- DELETE TO UNCOMMENT 
 <h5 align='center' title='WE GO GET!!'><a href="https://leonnoel.com/100devs/"><img src='https://pbs.twimg.com/card_img/1589438369494315008/GEokF0bG?format=png&name=360x360'></a></h5>
 
 ---
@@ -9,6 +12,7 @@
 </br>
 
 <!----- Schedule markdown below ----->
+<!-- DELETE TO UNCOMMENT
 ## WEEKLY SCHEDULE:
 <span> * All times listed in EST and are subject to change with little to no notice. If you see an error or would like something added please let us know! </span>
 
@@ -17,7 +21,7 @@
 | Office Hours: 2pm EST (Discord) 	| Rufio Stream: 11:00am EST (Twitch)<br><br>Banki Voice Group 1: 3:00pm EST (Discord)<br><br>Banki Voice Group 2: 5:00pm EST (Discord)<br><br>Daily Standup: 6:00pm EST (Remo) 	| Banki Voice Group 1: 3:00pm EST (Discord)<br><br>Banki Voice Group 2: 5:00pm EST (Discord)<br><br>Daily Standup: 6:00pm EST (Remo)<br><br>Class: 6:30pm EST (Twitch) 	| Banki Voice Group 1: 3:00pm EST (Discord)<br><br>Banki Voice Group 2: 5:00pm EST (Discord)<br><br>Daily Standup: Cancelled for US Thanksgiving Holiday<br><br>Mock Interview Practice: 6:30pm EST (After standup) (Discord)<br><br>Mayanwolfe Stream: 7:00pm EST (Twitch) 	| Thanksgiving Holiday (US) 	| Banki Voice Group 1: 3:00pm EST (Discord)<br><br>Banki Voice Group 2: 5:00pm EST (Discord)<br><br>Friday Tea Spill: Cancelled for US Thanksgiving Holiday 	|                   	|
 
 <!----- Schedule markdown end ----->
-
+<!-- DELETE TO UNCOMMENT
 </br>
 </br>
 
