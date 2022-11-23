@@ -23,7 +23,7 @@
 
 ## JOIN THE COMMUNITY DISCUSSION!!
 
-<a href="" target="blank" title="click to join the conversation!!"><img src="https://connect4education.com/wp-content/uploads/2019/07/AdobeStock_197966237.jpeg">
+<a href="https://github.com/orgs/100Devs-Community/discussions" target="blank" title="click to join the conversation!!"><img src="https://connect4education.com/wp-content/uploads/2019/07/AdobeStock_197966237.jpeg">
 
 </br>
 </br>
